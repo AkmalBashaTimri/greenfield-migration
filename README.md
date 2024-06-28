@@ -3,9 +3,9 @@ An organization wide initiative undertaken since 2019 to upgrade all our existin
 
 Roles and Responsibilities:
 
-•	Spearheaded the end-to-end migration of our entire application
+•	Spearheaded the end-to-end migration of our entire application involving 7 major components and 7 regions within a span on two years
 
-•	Developed and implemented a comprehensive migration strategy for transitioning over to a new infrastructure, ensuring data integrity and continuity of service throughout the process.
+•	Developed and implemented a comprehensive migration strategy for transitioning over to a new infrastructure, ensuring data integrity and continuity of service throughout the process
 
 •	Managed the successful migration of Application VMs over to Static and Dynamic containers
 
@@ -15,6 +15,6 @@ Roles and Responsibilities:
 
 •	Oversaw the lift and shift of Teradata Database
 
-•	Collaborated with multiple support teams and vendors in ensure smooth migration of each component including conducting rigorous performance testing during migration of each component
+•	Collaborated with multiple support teams and vendors and ensured smooth migration of each component including conducting rigorous performance testing during migration of each component
 
 •	Provided detailed documentation and training to the support team post-migration, ensuring they were equipped to handle the new system effectively and efficiently
