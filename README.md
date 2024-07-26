@@ -3,7 +3,7 @@ An organization wide initiative undertaken since 2019 to upgrade all our existin
 
 Roles and Responsibilities:
 
-•	Spearheaded the end-to-end migration of our entire application involving 7 major components and 7 regions within a span on two years
+•	Spearheaded the end-to-end migration of our entire application involving 7 major components and 7 regions within a span of two years
 
 •	Developed and implemented a comprehensive migration strategy for transitioning over to a new infrastructure, ensuring data integrity and continuity of service throughout the process
 
